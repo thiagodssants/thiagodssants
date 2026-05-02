@@ -8,14 +8,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BBThiago+dos+Santos" alt="Typing SVG" /></a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
-
 <h3 align="left">Olá 👋</h3>
 
 ###
