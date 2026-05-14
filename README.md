@@ -1,13 +1,14 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,100:2563EB&section=header"/>
+
+# 👨🏻‍💻 Thiago dos Santos
+
+### Designer • Front-End • IA • Análise de Dados
+
 </div>
 
-###
-<div align="center" width="100%">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BBThiago+dos+Santos" alt="Typing SVG" /></a>
-</div>
-
+---
 <h3 align="left">Olá 👋</h3>
 
 ###
@@ -33,5 +34,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
+<div align="center">
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer"/>
+
+</div>
