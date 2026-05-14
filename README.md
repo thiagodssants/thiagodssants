@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,100:2563EB&section=header"/>
 
 # 👨🏻‍💻 Thiago dos Santos
 
